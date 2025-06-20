@@ -4,7 +4,6 @@
 I’m a Master’s student in Computer Science at Georgia Tech, driven by a deep passion for coding, computing systems, and developing robust, innovative applications. I thrive on solving complex problems and constantly exploring new technologies to push the boundaries of what’s possible in software development.
 
 ## 🚀 What I'm up to:
-- 💻 Building a multi-threaded GetFile server that functions as a proxy, translating GETFILE requests into HTTP requests, and implementing a shared-memory cache server for efficient proxy communication
 - 🏈 Developing a full-stack iOS application for Georgia Tech’s Bobby Dodd Stadium, focused on improving fan interaction and delivering real-time event updates
 
 Check out my [coding portfolio](https://www.jacobcole.dev)
