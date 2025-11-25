@@ -6,8 +6,6 @@ I’m a Master’s student in Computer Science at Georgia Tech, driven by a deep
 ## 🚀 What I'm up to:
 - 🏈 Developing a full-stack iOS application for Georgia Tech’s Bobby Dodd Stadium, focused on improving fan interaction and delivering real-time event updates
 
-Check out my [coding portfolio](https://www.jacobcole.dev)
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobrcole) 
 
