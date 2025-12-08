@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">👋 Hi, I'm Jacob Cole</h1>
+<h1 style="text-align: center;">👋 Hi, I'm Jacob</h1>
 
 ## 💫 About me:
 I’m a Master’s student in Computer Science at Georgia Tech, driven by a deep passion for coding, computing systems, and developing robust, innovative applications. I thrive on solving complex problems and constantly exploring new technologies to push the boundaries of what’s possible in software development.
