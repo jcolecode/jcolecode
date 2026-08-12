@@ -4,7 +4,7 @@
 I’m a Software Engineer with a MS in Computer Science from Georgia Tech, driven by a deep passion for coding, computing systems, and developing robust, innovative applications. I thrive on solving complex problems and constantly exploring new technologies to push the boundaries of what’s possible in software development.
 
 ## 🚀 What I'm up to:
-- 🍔 Developing a Tinder-style restaurant recommendation app that helps groups quickly decide where to eat through swipe-based voting and personalized restaurant matches.
+- Building...
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobrcole) 
